@@ -1,0 +1,12 @@
+import numpy as np
+import pandas as pd
+import requests
+
+# Requesting site
+
+if __name__ == '__main__':
+    headers = {'user-agent': 'H Valenty personal study (unc6kr@virginia.edu)'}
+    r = requests.get("https://goduquesne.com", headers = headers)
+    print(r)
+
+    print(r.text[0:1000])
