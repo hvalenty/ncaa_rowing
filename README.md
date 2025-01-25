@@ -1,6 +1,8 @@
 # ncaa_rowing
 Exploratory study on NCAA women's rowing teams.
 
+![2024 A10 Championships](IMG_0509.JPG "Duq Seniors at 2024 A10 Championship")
+
 ## Aim 
 Leverage webscraping to seamlessly extract roster and lineups data from NCAA women's rowing teams. Use this information to track lineup changes throughout a season to compare with boat performance data. Beginning the study on Duquense's women's team, where I rowed from 2020-2024. Using this repo as a medium to practice techniques from the UVA MSDS program, on data which interests me.
 
